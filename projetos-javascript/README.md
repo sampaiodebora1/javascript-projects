@@ -1,16 +1,35 @@
-# Projetos em JavaScript
+# JavaScript Projects
 
-Projetos desenvolvidos por mim durante meus estudos em JavaScript, com foco em aprendizado prático e organização de código.
+This repository contains JavaScript projects developed during my studies, with a focus on practical learning, logical reasoning, and clean code organization.
 
-## Sobre
+## Project Overview
 
-Este repositório reúne projetos criados para consolidar conceitos fundamentais da linguagem JavaScript, como variáveis, funções e lógica básica.
+The goal of this repository is to reinforce fundamental JavaScript concepts through hands-on exercises and small projects. Each project was created as part of my learning process while studying the core principles of the language.
 
-## Estrutura
+These projects focus on building a solid understanding of programming logic and JavaScript fundamentals.
 
-- Mod1: Projetos iniciais com variáveis e constantes
-- Mod2: Projetos com funções e lógica simples
+## Topics Covered
 
-## Objetivo
+- Variables and constants
+- Functions
+- Basic programming logic
+- Problem solving
+- Code organization
 
-Construir uma base sólida em JavaScript e registrar minha evolução por meio de projetos práticos.
+## Project Structure
+
+The projects are organized into modules according to the concepts studied.
+
+**Module 1**
+- Introductory projects using variables and constants
+
+**Module 2**
+- Projects using functions and basic programming logic
+
+## Objective
+
+The objective of this repository is to build a strong foundation in JavaScript while documenting my learning progress through practical projects.
+
+## Technologies Used
+
+- JavaScript
